@@ -13,4 +13,4 @@ spring:
     name: eureka-consumer
 
 #自定义配置
-name: eureka-consumer-service-dev
+name: eureka-consumer-service-dev.1.0
