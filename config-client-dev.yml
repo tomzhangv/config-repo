@@ -5,4 +5,4 @@ spring:
   application:
     name: config-client # 应用名称
 
-name: config-client-default.1.0.2
+name: config-client-default.2.0
