@@ -13,5 +13,5 @@ spring:
     name: eureka-consumer
 
 #自定义配置
-name: eureka-consumer-service-dev.1.0.2
+name: eureka-consumer-service-dev
 password: '{cipher}cc4cceacad35ccc4ecbaf592f538b47e95dc07a49d80a4839b9fa7e6ef85344c'
