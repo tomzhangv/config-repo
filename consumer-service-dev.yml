@@ -13,6 +13,6 @@ spring:
     name: eureka-consumer
 
 #自定义配置
-name: consumer-service-dev.1.5
+name: consumer-service-dev.1.6
 password: '{cipher}AQBV2iRkoPqdyNoeF5L1BGVhq22e5gjFMTi0VBk2hSWb9nsAt98SuVIG9Jha2aIDcrrPGnPfWV4Fh8PIBMHgcw3Yqo3YBPsjy6PDdcnXow1hubAUvFYuZ+ueCM9d1p/8KM1sST8XNUXyhob1K0omRNYnXuL3qwDMUFenWeND7HE9gnMlGQNu0O8xOHIUu3avLNVMr/dOWwTm21Z4QlXf7wap27KKzawY9HldjI3YOYf/xUSL6BazbsiGSsPEwdJJH1i7Am5LvYY8pRVMKriwaopwwxLGqUsxRxmtZyVURztnQ6+TIM9VgzWksvvKwqP3EHUDZ3ztpJdV+qsE69F5PG2f5ghXk6vFY5HHZ1Su0gRk6CVftdo7pJvfU7Pkllfa8BE='
 #password: '{cipher}cc4cceacad35ccc4ecbaf592f538b47e95dc07a49d80a4839b9fa7e6ef85344c'
